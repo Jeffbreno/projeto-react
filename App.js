@@ -26,5 +26,6 @@ export default function App() {
 const styles = StyleSheet.create({
   header: {
     width: "100vw",
+    flex: 1
   },
 });
